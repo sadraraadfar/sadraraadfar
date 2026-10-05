@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sadraraadfar/sadraraadfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭 I’m currently working on scalable backend systems, SaaS products, APIs, and AI-powered applications.<br><br>👯 I’m looking to collaborate on ambitious software products, backend platforms, developer tools, and AI/LLM projects.<br><br>🤝 I’m looking for help with building and scaling products that solve real business problems.<br><br>🌱 I’m currently learning more about distributed systems, system design, LLM infrastructure, and production-grade AI agents.<br><br>💬 Ask me about Python, FastAPI, backend architecture, APIs, PostgreSQL, SaaS engineering, Docker, and LLM applications.<br><br>⚡ Fun fact: I enjoy turning complex product ideas into simple, maintainable systems.
@@ -28,4 +24,3 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=sadraraadfar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
