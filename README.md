@@ -1,7 +1,4 @@
-## Hi there 👋
 
-
-# 💫 About Me:
 🔭 I’m currently working on scalable backend systems, SaaS products, APIs, and AI-powered applications.<br><br>👯 I’m looking to collaborate on ambitious software products, backend platforms, developer tools, and AI/LLM projects.<br><br>🤝 I’m looking for help with building and scaling products that solve real business problems.<br><br>🌱 I’m currently learning more about distributed systems, system design, LLM infrastructure, and production-grade AI agents.<br><br>💬 Ask me about Python, FastAPI, backend architecture, APIs, PostgreSQL, SaaS engineering, Docker, and LLM applications.<br><br>⚡ Fun fact: I enjoy turning complex product ideas into simple, maintainable systems.
 
 
